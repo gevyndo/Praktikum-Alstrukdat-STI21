@@ -2,7 +2,7 @@
 Nama : Gevyndo Gunawan
 NIM: 18221076   
 Tanggal: 12 November 2022
-Topik: Praaktikum 10
+Topik: Praktikum 10
 Deskripsi: Implementasi linkdummy.h
 */
 
