@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "boolean.h": "c",
+        "stdbool.h": "c",
+        "arraydin.h": "c"
+    }
+}

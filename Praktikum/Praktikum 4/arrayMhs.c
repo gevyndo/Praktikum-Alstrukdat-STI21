@@ -1,5 +1,5 @@
-// NIM             : 18221048
-// Nama            : Syafiq Ziyadul Arifin
+// NIM             : 18221076
+// Nama            : Gevyndo Gunawan
 // Tanggal         : 26 September 2022
 // Topik praktikum : Praktikum 4
 // Deskripsi       : Implementasi dari arrayMhs.h
