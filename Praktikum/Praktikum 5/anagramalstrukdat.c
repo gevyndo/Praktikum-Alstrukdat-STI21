@@ -1,7 +1,7 @@
-// NIM             : 18221048
-// Nama            : Syafiq Ziyadul Arifin
-// Tanggal         : 3 Oktober 2022
-// Topik praktikum : Praktikum 5
+// NIM             : 18221076
+// Nama            : Gevyndo Gunawan
+// Tanggal         : 3 Oktober 2022 
+// Topik praktikum : Praktikum 5 
 // Deskripsi       : Implementasi dari anagramalstrukdat.h
 
 #include <stdio.h>
