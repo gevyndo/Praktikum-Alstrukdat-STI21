@@ -1,7 +1,7 @@
-// NIM             : 18221048
-// Nama            : Syafiq Ziyadul Arifin
-// Tanggal         : 21 Oktober 2022
-// Topik praktikum : Praktikum 7
+// NIM             : 18221076
+// Nama            : Gevyndo Gunawan
+// Tanggal         : 24 Oktober 2022 
+// Topik praktikum : Praktikum 7 
 // Deskripsi       : Implementasi dari browserhistory.h
 
 #include <stdio.h>
