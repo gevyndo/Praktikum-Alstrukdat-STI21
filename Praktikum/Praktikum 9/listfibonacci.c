@@ -1,7 +1,7 @@
-// NIM             : 18221048
-// Nama            : Syafiq Ziyadul Arifin
-// Tanggal         : 7 November 2022
-// Topik praktikum : Praktikum 9
+// NIM             : 18221076
+// Nama            : Gevyndo Gunawan
+// Tanggal         : 7 November 2022 
+// Topik praktikum : Praktikum 8 
 // Deskripsi       : Program list fibonacci dengan 2 elemen pertama
 //                   sebagai masukan
 

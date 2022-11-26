@@ -1,9 +1,8 @@
-// NIM             : 18221048
-// Nama            : Syafiq Ziyadul Arifin
-// Tanggal         : 7 November 2022
-// Topik praktikum : Praktikum 9
-// Deskripsi       : Program implementasi cache dengan skema
-//                   LRU (Least Recently Used)
+// NIM             : 18221076
+// Nama            : Gevyndo Gunawan
+// Tanggal         : 7 November 2022 
+// Topik praktikum : Praktikum 8 
+// Deskripsi       : Program implementasi cache
 
 #include <stdio.h>
 #include "listlinier.h"
